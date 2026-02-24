@@ -1,0 +1,25 @@
+# Environment
+.env
+.env.*
+.env.local
+
+# Credentials
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# PHP
+*.log
+wp-config.php
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node (if used)
+node_modules/
